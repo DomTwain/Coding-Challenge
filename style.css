@@ -1,0 +1,37 @@
+body{
+}
+
+.header{
+
+}
+.conteiner{
+  text-align: center;
+  background-color:#BDB76B;
+  margin: auto;
+}
+
+.php {width: 60%; background-color: 	#FF7F50;} /* orange */
+
+.css {width: 80%; background-color: #7CFC00;} /* lime */
+
+.js {width: 30%; background-color: #f44336;} /* Red */
+
+.logo{
+  width: 200px;
+}
+
+.logo-text{
+  font-size: 25px;
+  color: limegreen;
+}
+
+.read{
+  color: white;
+}
+.subject{
+
+}
+.under-text{
+
+}
+.skill css{}
